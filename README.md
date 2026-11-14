@@ -10,7 +10,7 @@ A self-drive rental project by **Mohammed Jawwad Nagarmat**. The public Coastlin
 2. Review a vehicle’s daily rate, rental length, and total. Confirm to get a booking reference.
 3. Under **My bookings**, cancel a reservation to make the car available again. A return date can be another booking’s pick-up date.
 
-### Run the Express and SQLite project locally
+### Run the Express and SQLite project local
 
 With Node.js and npm installed, run these commands from the repository root:
 
